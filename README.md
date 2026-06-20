@@ -29,4 +29,4 @@ Perform deep-dive analysis on retail sales data and create visualizations to ide
 - Observed sales trends over time.
 
 ## Author
-Pandu
+K PALLAVI
